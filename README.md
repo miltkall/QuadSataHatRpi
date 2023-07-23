@@ -12,7 +12,7 @@ Mirror the latest version with additional minor changes.
 
 
 ## Setup
-Script ```get-rockpi-sata.sh ```
+Script ```sudo ./get-rockpi-sata.sh ```
 references raspbi-sata-0.14.deb which has also been uploaded under files.
 
 [Youtube guide](https://www.youtube.com/watch?v=Eix0PCB0byQ).
